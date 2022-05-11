@@ -62,13 +62,13 @@ Save the extracted feature before the classifaction layer to increase test speed
 If this work is useful in your research, please cite 
 
 ```
-@article{xxxx,
+@article{TANG2022AGPF,
   title={Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition},
   author={Hao Tang, Chengcheng Yuan, Zechao Li, and Jinhui Tang},
-  journal={xxxx},
-  volume={xxx},
-  pages={xxx},
-  year={xxx},
+  journal={Pattern Recognition},
+  volume={},
+  pages={},
+  year={2022},
   publisher={Elsevier}
 }
 ```
