@@ -1,6 +1,6 @@
 # AGPF-FSFG
 
-## Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition (Pattern Recognition, 2022)
+## [Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition](https://www.sciencedirect.com/science/article/pii/S0031320322002734) (Pattern Recognition, 2022)
 ### By [Hao Tang](https://cser-tang-hao.github.io/), Chengcheng Yuan, Zechao Li, and Jinhui Tang
 ### Extension of Conference Paper (IJCAI 2021 LTDL Workshop Best Paper Award)
 ## Enviroment
@@ -62,12 +62,11 @@ Save the extracted feature before the classifaction layer to increase test speed
 If this work is useful in your research, please cite 
 
 ```
-@article{TANG2022AGPF,
+@article{TANG2022108792,
   title={Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition},
   author={Hao Tang, Chengcheng Yuan, Zechao Li, and Jinhui Tang},
   journal={Pattern Recognition},
-  volume={},
-  pages={},
+  pages = {108792},
   year={2022},
   publisher={Elsevier}
 }
