@@ -76,4 +76,5 @@ If this work is useful in your research, please cite
 This implementation builds upon several open-source codes. Specifically, we have modified and integrated the following codes into this repository:
 
 *  [CloserLookFewShot](https://github.com/wyharveychen/CloserLookFewShot) 
+*  [AP-CNN](https://github.com/PRIS-CV/AP-CNN_Pytorch-master) 
 
