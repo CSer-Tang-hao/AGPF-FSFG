@@ -58,19 +58,33 @@ Save the extracted feature before the classifaction layer to increase test speed
 ## Results
 * The test results will be recorded in `./record/results.txt`
 
+## Other related papers
+  ```bibtex
+     @inproceedings{TianTD21,
+      author    = {Sheng Tian and
+                   Hao Tang and
+                   Longquan Dai},
+      title     = {Coupled Patch Similarity Network FOR One-Shot Fine-Grained Image Recognition},
+      booktitle = {ICIP},
+      pages     = {2478--2482},
+      year      = {2021}，
+      publisher = {{IEEE}}
+    }
+  ```
+
 ## Citation
 If this work is useful in your research, please cite 
 
-```
-@article{TANG2022108792,
-  title={Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition},
-  author={Hao Tang, Chengcheng Yuan, Zechao Li, and Jinhui Tang},
-  journal={Pattern Recognition},
-  pages = {108792},
-  year={2022},
-  publisher={Elsevier}
-}
-```
+```bibtex
+  @article{TANG2022108792,
+      title={Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition},
+      author={Hao Tang, Chengcheng Yuan, Zechao Li, and Jinhui Tang},
+      journal={Pattern Recognition},
+      pages = {108792},
+      year={2022},
+      publisher={Elsevier}
+    }
+  ```
 
 ## References
 This implementation builds upon several open-source codes. Specifically, we have modified and integrated the following codes into this repository:
