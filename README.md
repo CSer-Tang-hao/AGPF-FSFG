@@ -61,9 +61,7 @@ Save the extracted feature before the classifaction layer to increase test speed
 ## Other related papers
   ```bibtex
      @inproceedings{TianTD21,
-      author    = {Sheng Tian and
-                   Hao Tang and
-                   Longquan Dai},
+      author    = {Sheng Tian and Hao Tang and Longquan Dai},
       title     = {Coupled Patch Similarity Network FOR One-Shot Fine-Grained Image Recognition},
       booktitle = {ICIP},
       pages     = {2478--2482},
