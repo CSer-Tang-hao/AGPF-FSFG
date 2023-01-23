@@ -68,7 +68,6 @@ Save the extracted feature before the classifaction layer to increase test speed
       year      = {2021}，
       publisher = {{IEEE}}
     }
-    
   ```
   ```bibtex
     @article{zha2023boosting,
