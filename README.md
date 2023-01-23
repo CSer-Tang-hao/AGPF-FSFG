@@ -70,7 +70,7 @@ Save the extracted feature before the classifaction layer to increase test speed
     }
   ```
   ```bibtex
-    @article{zha2023boosting,
+     @article{zha2023boosting,
        title={Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment},
        author={Zha, Zican and Tang, Hao and Sun, Yunlian and Tang, Jinhui},
        journal={IEEE Transactions on Circuits and Systems for Video Technology},
@@ -83,15 +83,15 @@ Save the extracted feature before the classifaction layer to increase test speed
 ## Citation
 If this work is useful in your research, please cite 
 
-```bibtex
-  @article{TangYLT22,
+  ```bibtex
+     @article{TangYLT22,
           author    = {Hao Tang and Chengcheng Yuan and Zechao Li and Jinhui Tang},
           title     = {Learning attention-guided pyramidal features for few-shot fine-grained recognition},
           journal   = {Pattern Recognit.},
           volume    = {130},
           pages     = {108792},
           year      = {2022}
-        }
+     }
   ```
 
 ## References
