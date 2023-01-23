@@ -70,14 +70,16 @@ Save the extracted feature before the classifaction layer to increase test speed
     }
     
   ```
+  ```bibtex
     @article{zha2023boosting,
-           title={Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment},
-           author={Zha, Zican and Tang, Hao and Sun, Yunlian and Tang, Jinhui},
-           journal={IEEE Transactions on Circuits and Systems for Video Technology},
-           year={2023},
-           publisher={IEEE},
-           doi={10.1109/TCSVT.2023.3236636}
-        }
+       title={Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment},
+       author={Zha, Zican and Tang, Hao and Sun, Yunlian and Tang, Jinhui},
+       journal={IEEE Transactions on Circuits and Systems for Video Technology},
+       year={2023},
+       publisher={IEEE},
+       doi={10.1109/TCSVT.2023.3236636}
+    }
+  ```
 
 ## Citation
 If this work is useful in your research, please cite 
