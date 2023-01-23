@@ -1,6 +1,6 @@
 # AGPF-FSFG
 
-## Official codes for [Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition](https://www.sciencedirect.com/science/article/pii/S0031320322002734) (Pattern Recognition, 2022)
+## Official codes for [Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition](https://www.sciencedirect.com/science/article/pii/S0031320322002734) (Pattern Recognition, 2022) [![IEEE Page](https://img.shields.io/badge/Elsevier-PR.2022.108792-green?style=flat-square)](https://www.sciencedirect.com/science/article/pii/S0031320322002734)
 ### By [Hao Tang](https://cser-tang-hao.github.io/), Chengcheng Yuan, Zechao Li, and Jinhui Tang
 ### Extension of Conference Paper (IJCAI 2021 LTDL Workshop Best Paper Award)
 ## Enviroment
@@ -68,20 +68,29 @@ Save the extracted feature before the classifaction layer to increase test speed
       year      = {2021}，
       publisher = {{IEEE}}
     }
+    
   ```
+    @article{zha2023boosting,
+           title={Boosting Few-shot Fine-grained Recognition with Background Suppression and Foreground Alignment},
+           author={Zha, Zican and Tang, Hao and Sun, Yunlian and Tang, Jinhui},
+           journal={IEEE Transactions on Circuits and Systems for Video Technology},
+           year={2023},
+           publisher={IEEE},
+           doi={10.1109/TCSVT.2023.3236636}
+        }
 
 ## Citation
 If this work is useful in your research, please cite 
 
 ```bibtex
-  @article{TANG2022108792,
-      title={Learning Attention-Guided Pyramidal Features for Few-shot Fine-grained Recognition},
-      author={Hao Tang, Chengcheng Yuan, Zechao Li, and Jinhui Tang},
-      journal={Pattern Recognition},
-      pages = {108792},
-      year={2022},
-      publisher={Elsevier}
-    }
+  @article{TangYLT22,
+          author    = {Hao Tang and Chengcheng Yuan and Zechao Li and Jinhui Tang},
+          title     = {Learning attention-guided pyramidal features for few-shot fine-grained recognition},
+          journal   = {Pattern Recognit.},
+          volume    = {130},
+          pages     = {108792},
+          year      = {2022}
+        }
   ```
 
 ## References
